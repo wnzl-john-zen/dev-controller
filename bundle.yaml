@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "wnzl-john-zen-dev-controller"
+description: "CloudBees CI configuration bundle for the wnzl-john-zen dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/wnzl-john-zen/dev-controller"
+parent: "base"
